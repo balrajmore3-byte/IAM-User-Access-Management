@@ -1,1 +1,6 @@
-
+user_id,name,department,role,status
+U001,Amit,HR,HR,Active
+U002,Neha,IT,IT_Admin,Active
+U003,Rahul,Finance,Employee,Inactive
+U004,Priya,HR,Employee,Inactive
+U005,Sneha,IT,Manager,Active
